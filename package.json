@@ -1,0 +1,22 @@
+{
+  "name": "Deliberāte",
+  "version": "0.1.0",
+  "description": "Deliberāte: The community-based suggestion tool.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/TurqDevDesign/deliberate",
+  "keywords": [
+    "deliberate",
+    "deliberāte",
+    "suggestion",
+    "feedback",
+    "ideas"
+  ],
+  "author": "Phillip-Taylor",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "~1.7.8"
+  }
+}
