@@ -6,4 +6,4 @@ Deliberāte is a tool that creators, team organizers, and other community-based 
 
 ## License
 
-[CC0 1.0 (Public Domain)](LICENSE.md)
+[GNU Lesser General Public License v3.0](LICENSE.md)
