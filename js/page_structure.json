@@ -1,0 +1,16 @@
+{
+    "pages" : {
+        "portal"    : {
+            "file"  : "views/portal.html",
+            "title" : "Portal"
+        },
+        "workspace" : {
+            "file"  : "views/workspace.html",
+            "title" : "Deliberātions"
+        },
+        "settings"  : {
+            "file"  : "views/settings.html",
+            "title" : "Settings"
+        }
+    }
+}

@@ -1,5 +1,5 @@
 {
-  "name": "Deliberāte",
+  "name": "Deliberate",
   "version": "0.1.0",
   "description": "Deliberāte: The community-based suggestion tool.",
   "main": "main.js",
@@ -15,8 +15,26 @@
     "ideas"
   ],
   "author": "Phillip-Taylor",
-  "license": "CC0-1.0",
+  "license": "LGPL-3.0",
   "devDependencies": {
-    "electron": "~1.7.8"
+    "electron": "^1.7.12"
+  },
+  "dependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^6.4.1",
+    "babel-plugin-add-module-exports": "^0.2.1",
+    "babel-plugin-react-html-attrs": "^2.0.0",
+    "babel-plugin-transform-class-properties": "^6.3.13",
+    "babel-plugin-transform-decorators-legacy": "^1.3.4",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-es2015": "^6.3.13",
+    "babel-preset-react": "^6.3.13",
+    "babel-preset-stage-0": "^6.3.13",
+    "firebase": "^4.8.2",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-redux": "^5.0.6",
+    "redux": "^3.7.2",
+    "webpack": "^3.10.0"
   }
 }

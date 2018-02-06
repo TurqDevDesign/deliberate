@@ -1,0 +1,56 @@
+* {
+    box-sizing : border-box;
+}
+
+html {
+    height   : 100%;
+    width    : 100%;
+    overflow : hidden;
+}
+
+body {
+    overflow : hidden;
+}
+
+html,
+body {
+    margin     : 0;
+    padding    : 0;
+    background : #ccc;
+}
+
+::-webkit-scrollbar {
+    width: 18px;
+    height: 18px;
+}
+
+::-webkit-scrollbar-track {
+    background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+    border-radius: 18px;
+    background: #3C3E4B;
+    border: 6px solid transparent;
+    background-clip: padding-box;
+}
+
+main {
+    width      : 100%;
+    height     : calc(100% - 22px);
+    display    : block;
+    position   : absolute;
+    top        : 22px;
+    left       : 0;
+    right      : 0;
+    background : #21252B;
+    padding    : 6px;
+    overflow   : auto;
+}
+main .main-wrapper {
+    width       : 100%;
+    height      : auto;
+    color       : #778296;
+    font-family : system-ui, "Lucida Grande", "Segoe UI", Ubuntu, Cantarell, sans-serif;
+    overflow    : auto;
+}

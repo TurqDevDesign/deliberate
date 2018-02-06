@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <script>
+        let drs = require('../js/deliberate_require_scripts.js'),
+            firebase = drs.firebaseConnection.firebase_,
+            dpl = require('../js/deliberate_page_loader.js');
+
+        dpl.wrapper('deliberateWrapper');
+        dpl.pages();
+    </script>
+    <title>Deliberāte</title>
+  </head>
+  <body>
+    <div class="deliberate-wrapper" id="deliberateWrapper"></div>
+  </body>
+</html>

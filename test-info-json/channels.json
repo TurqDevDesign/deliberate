@@ -1,0 +1,73 @@
+{
+    "channels" : {
+        "test-channel-1" : {
+            "title" : "Test Channel 1",
+            "description" : "This is some description of the channel in question. Lorem ipsum dolor sit emet.",
+            "image" : "../file_path/image.jpg",
+            "channel-id" : "123456789",
+            "categories" : {
+                "category-1" : {
+                    "title" : "Category 1",
+                    "directory-id" : "123456788",
+                    "group-id" : "1"
+                },
+                "category-2" : {
+                    "title" : "Category 2",
+                    "directory-id" : "123456787",
+                    "group-id" : "1"
+                },
+                "category-3" : {
+                    "title" : "Category 3",
+                    "directory-id" : "123456786",
+                    "group-id" : "2"
+                },
+            }
+        },
+        "test-channel-2" : {
+            "title" : "Test Channel 2",
+            "description" : "This is some description of the channel in question. Lorem ipsum dolor sit emet.",
+            "image" : "../file_path/image2.jpg",
+            "channel-id" : "123456785",
+            "categories" : {
+                "category-1" : {
+                    "title" : "Category 1",
+                    "directory-id" : "123456784",
+                    "group-id" : "1"
+                },
+                "category-2" : {
+                    "title" : "Category 2",
+                    "directory-id" : "123456783",
+                    "group-id" : "2"
+                },
+                "category-3" : {
+                    "title" : "Category 3",
+                    "directory-id" : "123456782",
+                    "group-id" : "3"
+                },
+            }
+        },
+        "test-channel-3" : {
+            "title" : "Test Channel 3",
+            "description" : "This is some description of the channel in question. Lorem ipsum dolor sit emet.",
+            "image" : "../file_path/image3.jpg",
+            "channel-id" : "123456784",
+            "categories" : {
+                "category-1" : {
+                    "title" : "Category 1",
+                    "directory-id" : "123456783",
+                    "group-id" : "1"
+                },
+                "category-2" : {
+                    "title" : "Category 2",
+                    "directory-id" : "123456782",
+                    "group-id" : "1"
+                },
+                "category-3" : {
+                    "title" : "Category 3",
+                    "directory-id" : "123456781",
+                    "group-id" : "1"
+                },
+            }
+        }
+    }
+}

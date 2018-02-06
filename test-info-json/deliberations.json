@@ -1,0 +1,60 @@
+{
+    "submitted" : {
+        "test-channel-1" : {
+            "title" : "Test Channel 1",
+            "description" : "This is some description of the channel in question. Lorem ipsum dolor sit emet.",
+            "image" : "../file_path/image.jpg",
+            "channel-id" : "123456789",
+            "categories" : {
+                "category-1" : {
+                    "title" : "Category 1",
+                    "directory-id" : "123456788",
+                    "group-id" : "1"
+                }
+            }
+        }
+    },
+    "accepted" : {
+        "test-channel-1" : {
+            "title" : "Test Channel 1",
+            "description" : "This is some description of the channel in question. Lorem ipsum dolor sit emet.",
+            "image" : "../file_path/image.jpg",
+            "channel-id" : "123456789",
+            "categories" : {
+                "category-1" : {
+                    "title" : "Category 1",
+                    "directory-id" : "123456788",
+                    "group-id" : "1"
+                }
+            }
+        }
+    },
+    "rejected" : {
+        "rejected" : {
+            "title" : "Test Channel 1",
+            "description" : "This is some description of the channel in question. Lorem ipsum dolor sit emet.",
+            "image" : "../file_path/image.jpg",
+            "channel-id" : "123456789",
+            "categories" : {
+                "category-1" : {
+                    "title" : "Category 1",
+                    "directory-id" : "123456788",
+                    "group-id" : "1"
+                }
+            }
+        },
+        "blocked" : {
+            "title" : "Test Channel 1",
+            "description" : "This is some description of the channel in question. Lorem ipsum dolor sit emet.",
+            "image" : "../file_path/image.jpg",
+            "channel-id" : "123456789",
+            "categories" : {
+                "category-1" : {
+                    "title" : "Category 1",
+                    "directory-id" : "123456788",
+                    "group-id" : "1"
+                }
+            }
+        }
+    }
+}
